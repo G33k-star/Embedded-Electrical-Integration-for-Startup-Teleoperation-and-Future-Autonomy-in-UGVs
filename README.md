@@ -6,3 +6,6 @@ Contributed to the development and integration of electrical systems for an auto
 - Collaborated with interdisciplinary teams to integrate hardware, troubleshoot system communication (e.g., roscore conflicts), and ensure real-time operation.
 - Configured and calibrated autonomous tank using ROS Indigo on Ubuntu 14.04; tuned velocity controllers and sensor parameters for accurate motion response.
 - Documented calibration process and system architecture for future engineering cohorts.
+
+## Paper
+[View Paper Here](docs/Poster_UGV)

@@ -8,4 +8,4 @@ Contributed to the development and integration of electrical systems for an auto
 - Documented calibration process and system architecture for future engineering cohorts.
 
 ## Paper
-[View Paper Here](docs/Poster_UGV)
+[View Paper Here](docs/Poster_UGV Embedded Eletrical Integration.pdf)

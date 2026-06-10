@@ -1,1 +1,0 @@
-[View Poster Here](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FG33k-star%2FEmbedded-Electrical-Integration-for-Startup-Teleoperation-and-Future-Autonomy-in-UGVs%2Frefs%2Fheads%2Fmain%2FResearch%2520Poster.pptx&wdOrigin=BROWSELINK)
